@@ -1,0 +1,4 @@
+interface:
+  display_name: "Performance Review Collaborator"
+  short_description: "Draft evidence-led performance reviews"
+  default_prompt: "Use $performance-review-collaborator to draft a fair, direct manager review from evidence notes."
