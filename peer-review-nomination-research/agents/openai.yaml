@@ -1,0 +1,4 @@
+interface:
+  display_name: "Peer Review Nomination Research"
+  short_description: "Find evidence-backed peer nominees"
+  default_prompt: "Use $peer-review-nomination-research to identify peer review nominees for a person and review period."

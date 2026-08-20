@@ -28,7 +28,7 @@ I recommend Exceeds Expectations for my [period] performance. This cycle, I oper
 
 ## Strength Themes
 
-Use two to four themes. Pick themes that match the evidence.
+Use two to four themes. Pick themes that match the evidence and surface the person's most meaningful accomplishments, successes, initiatives, contributions, and ownership.
 
 - Technical depth and implementation judgment
 - Ownership through ambiguity
@@ -47,13 +47,27 @@ Good strength paragraphs connect pattern, evidence, and impact:
 [Name]'s clearest strength is [theme]. That showed up in [project/work], where [they] [role/action]. The impact was [result/change/risk reduced/team enabled].
 ```
 
-When current-level and next-level rubrics are available, make the alignment explicit:
+Treat `Strengths` as the place to make important work visible to the management chain. Include appropriate brag-worthy accomplishments when the evidence supports them, especially work that may be under-recognized outside the person's immediate team. Ground each callout in available sources such as Jira, Confluence, GitHub, Slack, Google Drive, dashboards, or spreadsheets.
+
+When outcome data is available, make the business connection concrete:
+
+```text
+That work mattered because [business/customer/platform outcome]. The strongest source is [Jira/Confluence/GitHub/Slack/Drive/dashboard], which shows [metric, rollout state, stakeholder validation, reliability change, adoption signal, cost impact, or risk reduction].
+```
+
+When outcome data is missing, avoid filling the gap with generic impact language:
+
+```text
+The available evidence shows strong ownership and sound execution. I would frame the business impact directionally unless we can add [metric/stakeholder validation/customer signal] from [source].
+```
+
+When a strength or accomplishment maps to current-level or next-level rubric expectations, make the alignment explicit:
 
 ```text
 At [current level], this work shows [current-level expectation]. It also creates [next-level signal] because [scope/leverage/strategy/stakeholder impact], though I would separate that signal from a full next-level readiness claim unless the evidence is sustained.
 ```
 
-Use notable work and accomplishments as the proof, not as a standalone list. Connect each major accomplishment to current-level expectations first, then to next-level signal when supported.
+Use notable work and accomplishments as the proof, not as a standalone list. Do not discard a real strength just because it is not named in the rubric. For rubric-aligned strengths, connect the accomplishment to the career rubric supplied for the run: current-level expectations first, then next-level signal when supported.
 
 ## Areas of Improvement Patterns
 
@@ -81,6 +95,19 @@ Constructive:
 [Name] has the technical ability to be a strong contributor. The concern is inconsistent [execution/follow-through/communication]. Work has too often [evidence pattern]. At [level], I expect [specific next behavior].
 ```
 
+Use these patterns flexibly. They are examples of useful moves, not paragraph templates. Do not make every improvement paragraph the same length or follow the same sentence rhythm.
+
+Good constructive feedback should include:
+
+- The behavior or pattern
+- Why it matters at the person's level
+- The impact on the work, team, or stakeholders
+- The specific next behavior expected
+- Support, checkpoint, or conditional confidence when useful
+- Any business outcome or measurable operating impact tied to the gap, when available
+
+Keep the tone candid and kind. The reader should understand the gap without feeling attacked.
+
 ## Evidence Boundaries
 
 Use explicit boundaries when needed:
@@ -99,6 +126,8 @@ Remove or rewrite:
 - Research-note residue, such as source lists, raw quote stacks, or issue inventories.
 - Repetitive sentence frames across paragraphs.
 - Overly abstract claims, such as `demonstrated leadership excellence`, without examples.
+- Mechanically equal paragraphs with the same claim/evidence/impact rhythm.
+- Feedback that sounds like criticism but does not give the person a next action.
 
 Prefer:
 
@@ -107,3 +136,10 @@ Prefer:
 - `The next step is...`
 - `At [level], I expect...`
 - `This matters because...`
+
+After drafting, vary the shape:
+
+- Let the strongest evidence paragraph be longer when the work needs context.
+- Use a short paragraph when the judgment is simple.
+- Avoid opening several paragraphs with the person's name or the same phrase.
+- Combine related evidence instead of forcing every strength or gap into identical blocks.
